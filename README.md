@@ -1,10 +1,10 @@
-## COVID-19 interactive mapping tool
+## Demand Forecast Improvement of Medical Device Products
 
-This github page contains the code and input data for the [interactive COVID-19 mapping tool](https://vac-lshtm.shinyapps.io/ncov_tracker/) developed by the Vaccine Centre at the London School of Hygiene and Tropical Medicine.
+This github page contains the code and input data for the [Demand Forecast Improvement of Medical Device Products App](https://uotdrt-abhijeet0malatpure.shinyapps.io/DS590_Project/) developed by Team 5 for the DS590 Time Series Final Project.
 
-Input data are obtained from the [Johns Hopkins Center for Systems Science and Engineering github page](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series).
+Input data are obtained by Heungseok Oh from his company and resides under /input_data as an Excel Spreadsheet.
 
-The Shiny app, first launched on [11th February 2020](https://theconversation.com/coronavirus-outbreak-a-new-mapping-tool-that-lets-you-scroll-through-timeline-131422), aims to complement existing COVID-19 mapping dashboards (such as those developed by the [WHO](https://covid19.who.int) and [Johns Hopkins University](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)) with several interactive features, including the timeline function and the ability to overlay past outbreaks. 
+
 
 ## Shiny interface
 
